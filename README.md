@@ -1,8 +1,5 @@
 # IBM-Project-51604-1660980812
 Inventory Managment System for Retailers
-# IBM-Project-23478-1659883673
-Inventory Managment System for Retailers
-
 # INTRODUCTION
 
   Inventory software, also known as an inventory management system, is a solution that allows businesses 
