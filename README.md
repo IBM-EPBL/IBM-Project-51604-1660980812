@@ -1,5 +1,12 @@
 # IBM-Project-51604-1660980812
-Inventory Managment System for Retailers
+## Inventory Managment System for Retailers
+
+
+Team Members
+1. Nagappagari Devasankarsai(Team Lead) - 410719106069
+2. Shaik Shehanaz - 410719106091
+3. Bojja Naveen Kumar - 410719106073
+4. Dasari Chethana - 410719106022
 # INTRODUCTION
 
   Inventory software, also known as an inventory management system, is a solution that allows businesses 
